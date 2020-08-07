@@ -18,7 +18,7 @@ Since working as a software engineer:
 ---------------------------
 Previously:
 - I was lucky enough to have a grandfather who wanted me to get involved with computers from a young age. (dos, basic etc)
-- This led on to creating some excel macro's for accounting (various businesses) + a local running race. (some visual basic)
+- By age 10, this had led me to creating some excel macro's for accounting (various businesses) + a local running race. (some visual basic)
 - By 14-16 I was developing ecommerce stores in php + mysql, and got a job in a local computer shop creating websites.
 - By 16-17 I developed an interest in hypnosis + magic, that grew from childhood. Randomly being an early bloomer, internet savvy, and a heavy forum user, also with a strong self-belief in entrepreneurship. I somehow with the help of some amazing colleagues became widely considered the founder of the largest hypnosis movement in human history, and ended up teaching over 10,000 students & delivered talks (universities, governments, television, private) and conventions (USA, EU, AU), across 29 cities around the world with various affiliate campaigns and online training programs for ourselves and various partners. (2k+ a day offline, £500-800 p.d online)
 - By 2011, Despite it being a primary goal, I had largely missed the opporunity to turn into a full blown lead-gen social media advertising business (would have made 10m-50m)
